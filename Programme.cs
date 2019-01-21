@@ -7,7 +7,7 @@ namespace ConsoleApp
             Client client = new Client();
             
             client.Nom = "Dupont";
-            client.prenom = "Jean";
+            client.Prenom = "Jean";
 
             client.Afficher();
 
