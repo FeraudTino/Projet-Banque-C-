@@ -1,4 +1,8 @@
-class Banque
-{
-    
+
+namespace ProjetBanque{
+
+    class Banque
+    {
+
+    }
 }
