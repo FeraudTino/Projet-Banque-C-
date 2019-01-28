@@ -8,7 +8,19 @@ public class Application
 
 	}
 
-	Client Utilisateur()
+	Client truc1()
+	{
+
+
+	}
+
+	Banque truc2()
+	{
+
+
+	}
+
+	Compte truc3()
 	{
 
 
