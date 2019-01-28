@@ -3,7 +3,7 @@
     public int IdClient;
     public char nom;
     public char prenom;
-    public int DateNaissance;
+    public DateTime DateNaissance;
     public char adresse;
     public int telephone;
     public char mail;
